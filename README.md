@@ -19,3 +19,21 @@ This project demonstrates fundamental object-oriented programming (OOP) concepts
 - IDE: Visual Studio Code
 - JDK Version: 17+ recommended
 - Paradigm: Object-Oriented Programming (OOP)
+
+### Concepts Demonstrated
+1. Classes and Objects
+2. Data Encapsulation
+3. User Input Handling (Scanner class)
+4. Conditional Logic & Loops
+5. Menu-Driven Programs
+
+### Future Enhancements
+
+- Add account persistence using file handling or databases
+- Implement multiple account management
+- Include transaction history and interest calculation
+- Add simple authentication (PIN system)
+
+### Conclusion
+BankingApp is a foundational Java project designed to strengthen understanding of object-oriented programming and console-based application design.
+It’s a great addition to a personal portfolio or an academic demonstration of core Java concepts.
